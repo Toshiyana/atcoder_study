@@ -1,2 +1,2 @@
 # atcoder_study
-past problems of atcoder
+past problems of the atcoder
